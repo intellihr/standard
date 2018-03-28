@@ -1,7 +1,7 @@
 {
   "name": "@intellihr/standard",
   "description": "JavaScript Standard Style",
-  "version": "11.0.2",
+  "version": "11.0.3",
   "author": {
     "email": "feross@feross.org",
     "name": "Feross Aboukhadijeh",
